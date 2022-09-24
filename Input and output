@@ -1,0 +1,49 @@
+Hello World
+
+print("Hello World")
+
+
+Hello world new tab
+
+print("Hello World \t Hello World")
+
+
+Hello World with new line
+
+print("Hello World \n Hello World")
+
+
+Integer input
+
+a=int(input())
+print(a)
+
+
+Float input
+
+p=float(input())
+print('%2f'%p)
+
+Character input
+
+a=input()
+print(a)
+
+Sting input
+
+a=str(input())
+print(a)
+
+
+ASCii-1
+
+a=input()
+print(ord(a))
+
+ASCii-2
+
+a=int(input())
+print(chr(a))
+
+
+
